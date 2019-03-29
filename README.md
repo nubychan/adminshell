@@ -1,3 +1,6 @@
-# adminshellfinder Adalah tool untuk mengscan admin & shell secara bersamaan
+# adminshellfinder
+Is a tool to scan admin & sell simultaneously in a short time
+Thank you to Nurmala
+
 
 https://www.codecrime.net
